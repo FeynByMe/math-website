@@ -1,9 +1,9 @@
-title: Krater
-email: paolo.brasolin+krater@gmail.com
+title: Seminar on Higher Categories
+email: diogo.f.andrade@tecnico.ulisboa.pt
 description: >-
-  Krater is a template for math-intensive Jekyll websites.
-baseurl: &baseurl "/krater"
-url: "https://paolobrasolin.github.io/"
+  Website for the course on Higher Categories.
+baseurl: &baseurl "/math-website"
+url: "https://FeynByMe.github.io/"
 twitter_username: paolobrasolin
 github_username: paolobrasolin
 
